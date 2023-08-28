@@ -1,6 +1,5 @@
 # Spotify Clone App
-[[Demo Link -->] 
-(https://allnewspotify.netlify.app/)]<br>
+[[Demo Link](https://allnewspotify.netlify.app/)]<br>
 ![ezgif-1-f6040a3c25](https://github.com/newsid2024/Spotify_clone_/assets/108874631/73bf367a-a2bb-4627-b773-2120ef0e6e32)
 
 ## Description
@@ -16,7 +15,7 @@ This is a Spotify clone app that aims to replicate some of the features and desi
 
 ## Demo
 
-You can access a live demo of the app at [[Demo Link](https://your-demo-link.com)](https://allnewspotify.netlify.app/).
+You can access a live demo of the app at [[Demo Link](https://allnewspotify.netlify.app/)].
 
 ## Installation
 
@@ -27,7 +26,7 @@ You can access a live demo of the app at [[Demo Link](https://your-demo-link.com
 ## Technologies Used
 
 - React
-- Redux (or other state management library)
+- Context api
 - CSS (or a CSS framework like Bootstrap)
 - Spotify Web API
 
