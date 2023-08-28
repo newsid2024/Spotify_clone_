@@ -1,5 +1,5 @@
 # Spotify Clone App
-[[Demo] 
+[[Demo Link -->] 
 (https://allnewspotify.netlify.app/)]
 ![ezgif-1-f6040a3c25](https://github.com/newsid2024/Spotify_clone_/assets/108874631/73bf367a-a2bb-4627-b773-2120ef0e6e32)
 
