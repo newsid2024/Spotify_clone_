@@ -29,7 +29,7 @@ You can access a live demo of the app at [[Demo Link](https://allnewspotify.netl
 
 - React
 - Context api
-- CSS (or a CSS framework like Bootstrap)
+- CSS 
 - Spotify Web API
 
 ## Contributing
