@@ -10,8 +10,10 @@ This is a Spotify clone app that aims to replicate some of the features and desi
 
 - User authentication and registration.
 - Play and pause tracks, control volume.
+- Allows remote control.
 - Create and manage playlists.
 - Discover new music based on user preferences.
+  
 
 ## Demo
 
